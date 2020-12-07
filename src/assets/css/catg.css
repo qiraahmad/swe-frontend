@@ -1,0 +1,66 @@
+.container{
+    text-align: center;
+     margin: 15 0 3 3;
+   }
+   .h3{
+     text-decoration: line-through; text-decoration-color:#C6A8A2;
+     font-size:27px
+   }
+   
+   .img{
+     margin-bottom: 20px;
+     cursor: pointer;
+     box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2), 0px 6px 20px 0 rgba(0, 0, 0, 0.19);
+   }
+   
+   h4,p,a{
+     font-family: 'Oswald', sans-serif;
+   }
+   .lin{
+     font-size: 20px
+   }
+   
+   .box{
+     border: 3.5px solid black;
+     margin: 10px 10px 5px 5px;
+   }
+   
+   
+   .btn{
+     background: #C6A8A2;
+     color: white;
+     font-family: 'Oswald', sans-serif;
+     font-size: 17px;
+   }
+   
+   .btn:hover{
+     opacity: 2;
+     color: black;
+   }
+   
+   .shekel{
+     margin-left: 5px;
+     margin-bottom: 2px;
+   }
+   
+   .card-text{
+     font-size: 30px;
+   }
+   
+   #btn{
+     margin-top: 40px;
+   }
+   
+   .close{
+     color: rgb(255, 255, 255);
+     font-size: 50px;
+   }
+   
+   .close:focus{
+     outline: none;
+   }
+
+
+   #cart{
+     font-size: 20px;
+   }

@@ -1,0 +1,32 @@
+<template>
+    <ul class="nav nav-pills">
+    <li>
+        <router-link class="nav-link" active-class="active"  to="/" exact>
+        <a style="">Home</a>
+        </router-link>
+    </li>
+
+    <li>
+        <router-link class="nav-link" active-class="active"  to="/men" exact>
+        <a style="">Mens</a>
+        </router-link>
+    </li>
+
+    <li>
+        <router-link  active-class="active"  to="/women" exact>
+        <a style="">See Womens Collection</a>
+        </router-link>
+    </li>
+    
+</ul>
+</template>
+
+<script>
+export default {
+    
+}
+</script>
+
+<style>
+
+</style>

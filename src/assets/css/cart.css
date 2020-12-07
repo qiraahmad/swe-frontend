@@ -1,0 +1,52 @@
+.home{
+    text-decoration: none;
+    color: black
+}
+
+th,h5,td,tr{
+    font-family: 'Oswald', sans-serif;
+}
+td,th{
+    font-size: 17px
+}
+.men{
+    text-decoration: line-through; text-decoration-color:#C6A8A2;
+    font-size: 35px;
+    display:inline-block;
+}
+
+.supericon{
+    margin-bottom: 16px;
+    margin-left: 12px;
+    display:inline-block;
+}
+
+.container{
+    margin-top: 15px;
+}
+
+.check{
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 20px;
+    background: #C6A8A2;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+#check{
+    text-align: center;
+}
+
+
+.check:hover{
+  opacity: 2;
+  color: black;
+}
+.iconbtn{
+    font-size: 23px
+}
+.iconbtn:hover{
+  opacity: 3;
+  color: rgb(177, 160, 160); 
+}
